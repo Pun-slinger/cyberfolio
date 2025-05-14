@@ -2,6 +2,7 @@
 My Cybersecurity Portfolio as part of Coursera's Google Cybersecurity Professional Certificate
 
 Portfolio consists of: 
+
 Professional statement
 
 Conducting a security audit
