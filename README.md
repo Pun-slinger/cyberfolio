@@ -1,7 +1,8 @@
 # Cyberfolio
 My Cybersecurity Portfolio as part of Coursera's Google Cybersecurity Professional Certificate
 
-Drafting a professional statement
+Portfolio consists of: 
+Professional statement
 
 Conducting a security audit
 
