@@ -7,7 +7,7 @@ Portfolio consists of:
 
 2. Conducting a security audit
 
-3. Analyzing network structure and security
+3. Use the NIST Cybersecurity Framework to respond to a security incident
 
 4. Using Linux commands to manage file permissions
 
