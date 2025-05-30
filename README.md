@@ -18,5 +18,3 @@ Portfolio consists of:
 7. Documenting incidents with an incident handler’s journal 
 
 8. Importing and parsing a text file in a security-related scenario
-
-9. Creating or revising a resume
